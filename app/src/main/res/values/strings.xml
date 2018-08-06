@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="library_label">Library</string>
+    <string name="nowPlaying_label">Now Playing</string>
+    <string name="song_name">Song Name</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="library_button">Library</string>
+</resources>
