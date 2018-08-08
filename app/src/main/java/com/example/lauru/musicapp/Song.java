@@ -1,12 +1,12 @@
 package com.example.lauru.musicapp;
 
-    public class Word {
+    public class Song {
 
         private String mSongName;
 
         private String mArtistName;
 
-        public Word(String songName, String artistName) {
+        public Song(String songName, String artistName) {
             mSongName = songName;
             mArtistName = artistName;
         }
